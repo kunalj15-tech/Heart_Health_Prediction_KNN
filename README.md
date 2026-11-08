@@ -31,10 +31,12 @@ Heart-Disease-Prediction/
 │   └── index.html
 ├── static/
 │   └── style.css
+│   └── script.js
 ├── KNN_heart.pkl
-├── scaler_heart.pkl
-├── heart_columns.pkl
+├── scaler.pkl
+├── columns.pkl
 ├── requirements.txt
+├──Heart_basic.ipynb
 └── README.md
 ```
 
